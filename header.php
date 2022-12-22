@@ -11,7 +11,7 @@
     <style>
       body {
             background: rgb(255 255 255 / 30%);
-            background: url(<?php echo get_template_directory_uri(); ?>/imgs/CHF7007.jpg) no-repeat center center fixed;
+            background: url(<?php echo wp_get_attachment_image_url( get_theme_mod( 'set_media_background' ), 'full') ?>) no-repeat center center fixed;
             height: 100%;
             width: 100%;
             -webkit-background-size: cover;
