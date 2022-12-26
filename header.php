@@ -68,18 +68,23 @@
   
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0 gap-2">
+
           <li class="nav-item border border-1 rounded-3">
-            <a class="nav-link active text-black" aria-current="page" href="#">Política de Comunicação</a>
+            <a class="nav-link active text-black" aria-current="page" href="https://ifmt.edu.br/conteudo/pagina/politica-de-comunicacao-do-ifmt/">Política de Comunicação</a>
           </li>
+
           <li class="nav-item border border-1 rounded-3">
-            <a class="nav-link text-black" href="#">Bolsa de Formação</a>
+            <a class="nav-link text-black" href="https://qualificamais.ifmt.edu.br/">Bolsa de Formação</a>
           </li>     
+
           <li class="nav-item border border-1 rounded-3">
-            <a class="nav-link text-black" href="#">Portal do Aluno</a>            
+            <a class="nav-link text-black" href="https://ifmt.edu.br/conteudo/pagina/portal-do-aluno/">Portal do Aluno</a>            
           </li>      
+
           <li class="nav-item border border-1 rounded-3">
-            <a class="nav-link text-black" href="#">Processos Seletivos e Concursos</a>
-          </li>                             
+            <a class="nav-link text-black" href="https://selecao.ifmt.edu.br/">Processos Seletivos e Concursos</a>
+          </li>   
+
         </ul>
       </div>  
 
